@@ -29,6 +29,11 @@
 
   <actions>
     <!-- Add your actions here -->
+    <action id="SmartTabSwitcher" class="SmartTabSwitcher" text="SmartTabSwitcher"
+            description="Tab Switcher that behaves like Recent Files Popup">
+      <add-to-group group-id="TabsActions" anchor="first"/>
+      <keyboard-shortcut keymap="$default" first-keystroke="ctrl TAB"/>
+    </action>
   </actions>
 
 </idea-plugin>
