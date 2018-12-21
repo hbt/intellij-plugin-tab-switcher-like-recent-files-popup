@@ -2,7 +2,7 @@
   <id>com.hbt.tabs.switcher</id>
   <name>Tab Switcher Like Recent Files Popup</name>
   <version>1.0</version>
-  <vendor email="none@yourcompany.com" url="http://www.yourcompany.com">YourCompany</vendor>
+  <vendor email="none@yourcompany.com" url="https://github.com/hbt/intellij-plugin-tab-switcher-like-recent-files-popup">hbt</vendor>
 
   <description><![CDATA[
     Adds a tab switcher that behaves like Recent Files  or Recent Edited files popup in order to use key completion
