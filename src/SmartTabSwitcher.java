@@ -20,8 +20,7 @@ public class SmartTabSwitcher extends AnAction {
 
     @Override
     public void actionPerformed(AnActionEvent e) {
-        logger.setLevel(Level.ALL);
-        logger.info("--");
+//        logger.setLevel(Level.ALL);
 
         Project project = e.getProject();
         if (project == null) {
