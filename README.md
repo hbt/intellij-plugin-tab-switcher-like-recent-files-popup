@@ -10,6 +10,13 @@ You can hold the key and press Tab to move up/down the list of tabs but it is no
 
 This reuses the same Switcher as `Recent files` which allows the user to press a key to quickly select tab or filter. 
 
+## Actions
+
+```
+nnoremap tt :action SmartTabSwitcher<CR>
+```
+
+
 ## Release
 
 [https://github.com/hbt/intellij-plugin-tab-switcher-like-recent-files-popup/raw/master/intellij-plugin-tab-switcher-like-recent-files-popup.jar](https://github.com/hbt/intellij-plugin-tab-switcher-like-recent-files-popup/raw/master/intellij-plugin-tab-switcher-like-recent-files-popup.jar)
