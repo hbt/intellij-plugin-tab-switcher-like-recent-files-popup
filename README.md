@@ -1,3 +1,9 @@
+# DEPRECATED
+
+in favor of https://github.com/hbt/ideavim
+nnoremap tt :action SwitchTab3Action<CR>
+
+
 # Tab Switcher Like Recent Files Popup
 
 Adds a tab switcher that behaves like Recent Files or Recent Edited files popup in order to use key completion
